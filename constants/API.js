@@ -1,0 +1,1 @@
+// API Constants, ssuch as request queries and network information
