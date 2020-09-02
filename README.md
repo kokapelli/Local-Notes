@@ -1,0 +1,8 @@
+# The Idea
+Local Notes is a cross platform application meant to regionally remind the user of any todo's that might've been set at that location. The gist of it is to have selective reminders for when a user is at a specific location. Personally I'm not a fan of having a big todo list as it might be restricted to a specific area. I don't feel like having a big todo list that may encompass the grocery lisst, my work  or my home in general. By creating todo lists and assigning them to various locations I can selectively be reminded by the application when I'm at the store for example that I have a todo list at this location and I can from then act accordingly. 
+
+# How it works
+The way it works is simple. The user assigns various areas of importance where todo lists are generated. The todo list is then filled in and when the application detects that the user is at that specific location or perhaps somewhere in the general vicinity, it will send a notification that the user has stuff to do there. That way you'll never forget to check any potential todo's at that location. And when you leave the vicinity, so will the notification.
+
+# The flaws
+Obviously this application isn't perfect, but it is something that is good for me at least. You'll still need to allocate time to create the todo lists at the various locations. Perhaps with further integration of voice control and/or using a desktop app for the implementation could the workflow become more streamlined.
